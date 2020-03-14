@@ -1,2 +1,1 @@
-# Myds
- Data Science notebooks and datasets
+# My Data Science notebooks and datasets
